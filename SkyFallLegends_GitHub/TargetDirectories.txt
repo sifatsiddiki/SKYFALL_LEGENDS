@@ -1,0 +1,3 @@
+/Users/alsi/Downloads/SkyFall_Legends_99999/build/CMakeFiles/SkyfallLegends.dir
+/Users/alsi/Downloads/SkyFall_Legends_99999/build/CMakeFiles/edit_cache.dir
+/Users/alsi/Downloads/SkyFall_Legends_99999/build/CMakeFiles/rebuild_cache.dir

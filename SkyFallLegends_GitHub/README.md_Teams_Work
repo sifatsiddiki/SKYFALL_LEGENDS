@@ -1,0 +1,16 @@
+### Al Sifat Siddiki – Core Systems(AI, Rules and Game Flow)
+
+- Implemented enemy AI, wave patterns, boss behaviour, and core rules (lives, bombs, scoring, win/lose).
+- Set up menu and game-flow logic (back button, press-to-continue, pause/resume, screen transitions).
+- Tuned gameplay feel (shooting, explosions, combo scoring) and connected HUD and audio options to the game state.
+- Helped teammates integrate their UI/audio work and debugged issues across the shared codebase.
+____________________________________________________________________________________________________
+
+###  Atif Azeem – Core Systems (Engine & Physics)
+
+- Built the core game engine structure, including the main loop, delta-time update pipeline, and state-management system (menu, gameplay, pause, end-screen).
+- Integrated the project architecture (CMake, SFML, engine modules) and ensured all components could communicate cleanly without tightly-coupled dependencies.
+- Implemented physics-style movement for players, enemies, and projectiles using velocity × delta-time, including normalised input handling and screen-boundary clamping.
+- Developed the collision system using AABB checks for player/enemy/bullet interactions, including safe destruction logic, score/combo updates, and gameplay rule enforcement.
+- Performed debugging and performance improvements across the project (iterator-safe removal patterns, reduced object copying, stable update order, texture-load optimisation).
+- Supported teammates by locating engine-level issues, resolving integration conflicts, and maintaining consistent project structure during feature development.
